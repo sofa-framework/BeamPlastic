@@ -5,7 +5,7 @@ This plugin implements a co-rotational elasto-plastic model using the Timoshenko
 This plugin originates from the pull-request [#1618](https://github.com/sofa-framework/sofa/pull/1618) on the SOFA repository.
 
 <center>
-![](https://www.sofa-framework.org/wp-content/uploads/2018/07/UCA-Logo2.png)
+[![BeamPlastic from UCA](https://www.sofa-framework.org/wp-content/uploads/2018/07/UCA-Logo2.png)](https://www.uca.fr/en)
 </center>
 
 ### Reference
