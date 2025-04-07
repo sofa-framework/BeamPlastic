@@ -1,15 +1,16 @@
 # BeamPlastic
 
 This plugin implements a co-rotational elasto-plastic model using the Timoshenko beam theory. The plastic model used is a Von Mises-Hill plastic model with mixed work hardening (isotropic and kinematic), adapted to the representation of metal alloys. Plastic resolution is performed using a radial feedback algorithm.
+| | |
+|--|--|
+| This plugin originates from the pull-request [#1618](https://github.com/sofa-framework/sofa/pull/1618) on the SOFA repository. | [![BeamPlastic from UCA](https://www.sofa-framework.org/wp-content/uploads/2018/07/UCA-Logo2-150x150.png)](https://www.uca.fr/en) |
 
-This plugin originates from the pull-request [#1618](https://github.com/sofa-framework/sofa/pull/1618) on the SOFA repository.
 
-<center>
-[![BeamPlastic from UCA](https://www.sofa-framework.org/wp-content/uploads/2018/07/UCA-Logo2.png)](https://www.uca.fr/en)
-</center>
 
 ### Reference
 To cite this work, you can refer the following MICCAI paper: 
+
+
 ```
 @inproceedings{Krewcun2019SimulationOB,
   title={Simulation of Balloon-Expandable Coronary Stent Apposition with Plastic Beam Elements},
